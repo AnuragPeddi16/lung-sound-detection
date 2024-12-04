@@ -17,11 +17,11 @@
     <a href="https://github.com/AnuragPeddi16/lung-sound-detection.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="[video](https://github.com/AnuragPeddi16/lung-sound-detection/blob/main/demo_video.mp4)">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">View Usage</a>
+    <a href="#Usage">View Usage</a>
     .
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Contact Us!</a>
+    <a href="Contributors">Contact Us!</a>
   </p>
 </div>
 
