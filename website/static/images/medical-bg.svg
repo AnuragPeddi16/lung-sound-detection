@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background Pattern -->
+  <defs>
+    <pattern id="medical-grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M0 0h40v40H0z" fill="none"/>
+      <path d="M20 0v40M0 20h40" stroke="#E5E7EB" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="url(#medical-grid)"/>
+  
+  <!-- Medical Icons -->
+  <g fill="#E5E7EB" opacity="0.3">
+    <!-- Stethoscope -->
+    <path d="M200 100c-20 0-36 16-36 36s16 36 36 36c14 0 26-8 32-20h16c6 12 18 20 32 20 20 0 36-16 36-36s-16-36-36-36"/>
+    
+    <!-- Heart -->
+    <path d="M400 250c-20-20-40-20-60 0-20-20-40-20-60 0-20 20-20 40 0 60l60 60 60-60c20-20 20-40 0-60z"/>
+    
+    <!-- Lungs -->
+    <path d="M600 200c-40 0-60 30-60 60s20 60 60 60c40 0 60-30 60-60s-20-60-60-60zm-400 0c40 0 60 30 60 60s-20 60-60 60c-40 0-60-30-60-60s20-60 60-60z"/>
+  </g>
+</svg>
