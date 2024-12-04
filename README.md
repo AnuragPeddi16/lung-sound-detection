@@ -148,10 +148,21 @@ python3 app.py
 
 ### Contributors:<br><br>
 
-Aryanil Panja (2023111005)<br><br>
-Anurag Peddi (2023101090)<br><br>
-Karthik Venkat Malavathula (2023111025)<br><br>
-Adithya Addepalli Casichetty (2023101024)
+Aryanil Panja (2023111005)<br>
+Phone: 7776959216<br>
+Email: aryanil.panja@research.iiit.ac.in<br><br>
+
+Anurag Peddi (2023101090)<br>
+Phone: 8374844201<br>
+Email: anurag.peddi@students.iiit.ac.in<br><br>
+
+Karthik Venkat Malavathula (2023111025)<br>
+Phone: 9353153450<br>
+Email: karthikvenkat.m@research.iiit.ac.in<br><br>
+
+Adithya Addepalli Casichetty (2023101024)<br>
+Phone: 9345831382<br>
+Email: adithya.addepalli@students.iiit.ac.in<br><br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
