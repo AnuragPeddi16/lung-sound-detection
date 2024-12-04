@@ -17,7 +17,7 @@
     <a href="https://github.com/AnuragPeddi16/lung-sound-detection.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="[video](https://github.com/AnuragPeddi16/lung-sound-detection/blob/main/demo_video.mp4)">View Demo</a>
+    <a href="https://github.com/AnuragPeddi16/lung-sound-detection/blob/main/demo_video.mp4">View Demo</a>
     ·
     <a href="#Usage">View Usage</a>
     .
