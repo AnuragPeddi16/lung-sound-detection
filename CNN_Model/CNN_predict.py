@@ -26,7 +26,7 @@ reverse_class_mapping = {v: k for k, v in class_mapping.items()}
 
 def predict_class_cnn(file_path, max_len=250):
     # Load the saved model
-    model = load_model('./lung_sound_cnn_model.h5')
+    model = load_model('../CNN_Model/lung_sound_cnn_model.h5')
 
     # Process the audio file
     mel_spec = extract_mel_spectrogram(file_path)
