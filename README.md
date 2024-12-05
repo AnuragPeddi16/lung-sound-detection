@@ -92,14 +92,14 @@ _Below is an example of how you can install and set up the project._
    ```sh
    git clone https://github.com/AnuragPeddi16/lung-sound-detection.git
    ```
-2. Have Python3 installed
+2. Have python3.8 installed
     ```sh
-    sudo apt-get install python3
+    sudo apt-get install python3.8
     ```
 3. Make a virtual env and activate it
     ```sh
     cd lung-sound-detection
-    python3 -m venv .venv
+    python3.8 -m venv .venv
     source .venv/bin/activate
     ```
 4. Install `requirements.txt` packages
@@ -109,7 +109,7 @@ _Below is an example of how you can install and set up the project._
 5. Run The SVM and CNN models
     ```sh
     cd SVM_Model
-    python3 svm_train.py
+    python3.8 svm_train.py
     ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,14 +124,14 @@ _Below is an example of how you can install and set up the project._
 3. After the webserver is hosted, run :
 ```sh
 cd Filtering
-python3 master_algo.py
+python3.8 master_algo.py
 ```
 4. The filtered audio will be saved in the Filtering folder as ```recording_filtered_output.wav```
 
 5. Then host the website as:
 ```sh
 cd website
-python3 app.py
+python3.8 app.py
 ```
 6. Open ```http://127.0.0.1:5000``` in your preferred web browser.
 7. Choose your model and then drag and drop the ```recording_filtered_output.wav``` file into the box provided in the website.
